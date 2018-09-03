@@ -1,1 +1,1 @@
-# reset.css for blog content display
+# markdown 主题,用来展示博客
